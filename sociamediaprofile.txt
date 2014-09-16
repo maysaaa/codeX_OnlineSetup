@@ -1,0 +1,25 @@
+Sandiso
+
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Commands</h1>
+
+<p> ls- command is equivalent to ll command, this is used to get details informationabout files and directories in present work directoty</p>
+<p> ll- This command is used to list the details information of files and folders of the current directoty <p/>
+<p> dir- Allows you lto see the available files and directoty<p/>
+<p> pwd - is used to output the path of the currect working directory</p>
+<p> git clone- if you want to get a copy af an existing git repository for example a project you'd like to contribute<p/>
+<p> history-    <p/>
+<p> nano-       <p/>
+<p> exit -      <p/>
+<p> mkdir - is used to create new dictory<p/>
+<p> cd- is used to change the current working directory<p/>
+<p> sudo - allow access to other commands as a different user. sudo adds a log entry of the commands run, if you mess up you can always go back and see what command were run.<p/>
+ <img src="html5.gif" alt="HTML5 Icon" width="128" height="128"> 
+
+
+
+</body>
+</html> 
